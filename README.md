@@ -3,7 +3,9 @@
 ## 🎯 Project Overview  
 Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove into the *Wealth of Nations* dataset, cleaned it up 🧹, and turned raw numbers into insightful stories through stunning visualizations 📊. Using Microsoft Excel for data wrangling and Tableau for visual storytelling, I crafted an interactive dashboard that makes exploring economic data *fun and accessible*!  
 
-![Link to my Dashboard]([https://public.tableau.com/views/Wealthofnations_17285816865910/Top20CountriesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+[Link to my Dashboard](https://public.tableau.com/app/profile/lee.mccaffery/viz/Wealthofnations_17285816865910/Top20CountriesDashboard)  
+![image](https://github.com/user-attachments/assets/094803ff-2c06-41a4-8bb7-bad2a80499cc)
+
 
 ---
 
@@ -23,12 +25,12 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 - 🌎 **Regional Comparisons**: Dive into wealth disparities and population insights.  
 - 🔍 **Key Indicators**: Uncover what drives wealth in different nations.  
 
-![Sample Visualization](https://via.placeholder.com/800x400?text=Insert+Visualization+Image+Here)  
+
 
 ---
 
 ## 🚀 How to Explore  
-1. 🖱️ **[Click here to view the Tableau Dashboard](#)**  
+1. 🖱️ **[Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/lee.mccaffery/viz/Wealthofnations_17285816865910/Top20CountriesDashboard)**  
 2. 📂 Check out the Excel file and raw data in this repository for behind-the-scenes action.  
 
 ---
